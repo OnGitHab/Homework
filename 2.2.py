@@ -6,7 +6,8 @@ numbers, c = divmod(numbers, 10)
 numbers, d = divmod(numbers, 10)
 numbers, f = divmod(numbers, 10)
 
-print(str(a) + str(b) + str(c) + str(d) + str(f))
+
+print( (f + d * 10) + (c * 100) + (b * 1000) + (a * 10000))
 
 
 
