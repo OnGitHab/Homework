@@ -1,9 +1,9 @@
+user_input = "yes"
 
-
-while True:
-    a = float(input("..."))1
-    action = input("+, -, *, / ")
-    b = float(input("..."))
+while user_input == yes:
+    a = float(input("First number"))
+    action = input("Choose mathematical operators +, -, *, / ")
+    b = float(input("Second number"))
     result = 0
     if action == "+":
         result = a + b
@@ -19,4 +19,5 @@ while True:
         print(f"you chose a invalid symbol for operation!\nPleas select a character from the list")
 
     print(result)
-    break
+    user_input = input("if you want to restart print - 'yes'")
+
