@@ -6,19 +6,17 @@ lst_kw = ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'bre
 
 user_input = input("...:\n")
 
-
-if user_input[0] in st_nm:
-    print("False")
-elif user_input:
-    print(user_input.istitle())
-elif user_input in st_st or "__" in user_input:
-    print("False")
-elif len(user_input) > 0:
-    for el in lst_kw:
-        common_chars = set(user_input) & set(el)
-        similarity = len(common_chars) / max(len(set(user_input)), len(set(el)))
-        if similarity == 1:
-            print("False")
+if user_input in lst_kw:
+    value = "False"
+elif user_input[0] in st_nm:
+    value = "False"
+elif any(char.isupper() for char in user_input):
+    value = "False"
+elif any(char in st_st for char in user_input):
+    value = "False"
 else:
-    print("True")
+    value = "True"
+
+print(value)
+
 
