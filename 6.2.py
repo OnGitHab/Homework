@@ -18,4 +18,5 @@ if int(user_input) < 8640000:
 values_print = [str(hours_print), str(minutes_print), str(seconds_print)]
 values_print = [f"0{el}" if len(el) <= 1 else el for el in values_print]
 
+
 print(f"{days} {days_word}, {values_print[0]}:{values_print[1]}:{values_print[2]}")
