@@ -8,7 +8,7 @@ user_input = input("...:\n")
 
 if user_input in lst_kw:
     value = "False"
-elif user_input[0] in st_nm:
+elif user_input[0] in st_nm or "__" in user_input:
     value = "False"
 elif any(char.isupper() for char in user_input):
     value = "False"
