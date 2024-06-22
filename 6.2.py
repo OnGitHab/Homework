@@ -6,7 +6,7 @@ if int(user_input) < 8640000:
     hours, minutes_print = divmod(minutes, 60)
     days, hours_print = divmod(hours, 24)
 
-    if "2" in str(days):
+    if str(days).endswith("2"):
         days_word = "дні"
     elif days > 20 and str(days)[-1] == "1":
         days_word = "день"
