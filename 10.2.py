@@ -1,6 +1,4 @@
-
 import string
-
 
 
 def first_word(text):
