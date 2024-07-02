@@ -1,6 +1,7 @@
 import string
 
 
+
 def first_word(text):
     word_chars = f"{string.ascii_lowercase}{string.ascii_uppercase}'"
     word_lst = []
