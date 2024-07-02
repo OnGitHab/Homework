@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c6d2fc-86e5-461b-bc67-6ccf4179509a" name="Changes" comment="add homework 4.1 - 4.3">
-      <changelist_data name="user" email="youngerig@gmail.com" />
-      <change beforePath="$PROJECT_DIR$/.idea/Homework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e3c6d2fc-86e5-461b-bc67-6ccf4179509a" name="Changes" comment="Added homework 10.1 - 10.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.2.py" afterDir="false" />
     </list>
     <list id="e462d960-cdec-4e71-aedc-34937375da4d" name=" ch1" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +23,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OnGitHab&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OnGitHab/Homework.git&quot;,
+    &quot;accountId&quot;: &quot;e929b14d-4f5c-4ce0-b5f7-24491e0b7d83&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -42,16 +47,21 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.10.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.4.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.4.2.executor&quot;: &quot;Run&quot;,
     &quot;Python.4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/homework/Homework&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.4.3">
-    <configuration name="4.1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10.1">
+    <configuration name="10.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,14 +131,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4.1" />
-      <item itemvalue="Python.4.2" />
-      <item itemvalue="Python.4.3" />
+      <item itemvalue="Python.10.1" />
+      <item itemvalue="Python.10.2" />
+      <item itemvalue="Python.10.3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4.3" />
-        <item itemvalue="Python.4.2" />
+        <item itemvalue="Python.10.1" />
+        <item itemvalue="Python.10.2" />
+        <item itemvalue="Python.10.3" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +167,151 @@
       <option name="project" value="LOCAL" />
       <updated>1717278178298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add homework 4.1 - 4.3">
+      <option name="closed" value="true" />
+      <created>1717315509893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717315509893</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed option in print function">
+      <option name="closed" value="true" />
+      <created>1717433049662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717433049662</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added homework 5.1 - 6.3">
+      <option name="closed" value="true" />
+      <created>1718045233134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718045233134</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes 3.1 &#10;modification loop condition">
+      <option name="closed" value="true" />
+      <created>1718046009837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718046009837</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Сhanged code structure">
+      <option name="closed" value="true" />
+      <created>1718197773171</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718197773171</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Сhanged code structure">
+      <option name="closed" value="true" />
+      <created>1718712199784</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718712199784</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Сhanged code">
+      <option name="closed" value="true" />
+      <created>1718803142008</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718803142008</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add homework 7.1 - 7.2">
+      <option name="closed" value="true" />
+      <created>1718803206271</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718803206271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changed if condition">
+      <option name="closed" value="true" />
+      <created>1719070734023</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719070734023</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added homework 8.1 - 8.3">
+      <option name="closed" value="true" />
+      <created>1719071001029</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719071001029</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Changed elif condition(added &quot;or '__' in user_input&quot;">
+      <option name="closed" value="true" />
+      <created>1719072117359</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719072117359</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added homework 9.1, 9.2">
+      <option name="closed" value="true" />
+      <created>1719308121010</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719308121010</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added homework 10.1 - 10.3">
+      <option name="closed" value="true" />
+      <created>1719776907192</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719776907192</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added homework 10.1 - 10.3">
+      <option name="closed" value="true" />
+      <created>1719777047608</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719777047608</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added homework 10.1 - 10.3">
+      <option name="closed" value="true" />
+      <created>1719777336409</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719777336409</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added homework 10.1 - 10.3">
+      <option name="closed" value="true" />
+      <created>1719928704153</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719928704153</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added homework 10.1 - 10.3">
+      <option name="closed" value="true" />
+      <created>1719929726540</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719929726540</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added homework 10.1 - 10.3">
+      <option name="closed" value="true" />
+      <created>1719929808295</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1719929808295</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +327,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add homework 4.1 - 4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework 4.1 - 4.3" />
+    <MESSAGE value="Changed option in print function" />
+    <MESSAGE value="Added homework 5.1 - 6.3" />
+    <MESSAGE value="Changes 3.1 &#10;modification loop condition" />
+    <MESSAGE value="Сhanged code structure" />
+    <MESSAGE value="Сhanged code" />
+    <MESSAGE value="Add homework 7.1 - 7.2" />
+    <MESSAGE value="Changed if condition" />
+    <MESSAGE value="Added homework 8.1 - 8.3" />
+    <MESSAGE value="Changed elif condition(added &quot;or '__' in user_input&quot;" />
+    <MESSAGE value="Added homework 9.1, 9.2" />
+    <MESSAGE value="Added homework 10.1 - 10.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added homework 10.1 - 10.3" />
   </component>
 </project>
