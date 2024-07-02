@@ -6,7 +6,6 @@ def is_even(x):
     return result
 
 
-
 assert is_even(2) == True
 assert is_even(5) == False
 assert is_even(0) == True
